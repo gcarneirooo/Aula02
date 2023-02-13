@@ -1,8 +1,8 @@
 namespace Aula02
 {
-    public partial class frmConversao : Form
+    public partial class frmConversaoMedidas : Form
     {
-        public frmConversao()
+        public frmConversaoMedidas()
         {
             InitializeComponent();
         }

@@ -1,6 +1,6 @@
 ﻿namespace Aula02
 {
-    partial class frmConversao
+    partial class frmConversaoMedidas
     {
         /// <summary>
         ///  Required designer variable.
